@@ -28,7 +28,7 @@ border:1px solid black;
 }
 div#top_left {
 background-color:#d0cbb1;
-width:50%;
+width:35%;
 float:left;
 }
 div#top {
@@ -38,7 +38,7 @@ overflow: auto;
 }
 div#top_center {
 background-color:#d0cbb1;
-width:30%;
+width:45%;
 float:left;
 text-align:center;
 }
